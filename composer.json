@@ -1,10 +1,14 @@
 {
-    "name": "son/phpcoursecomp",
+    "name": "renato-son/course-composer",
     "description": "Composer course",
     "require": {
-        "silex/silex": "2.0.*@stable",
+        "php":">=5.4",
+        "silex/silex": "2.*@stable",
         "doctrine/dbal": "2.5.*@stable"
     },
+    "type":"library",
+    "version":"1.0",
+    "licence":"MIT",
     "require-dev": {
         "phpunit/phpunit": "6.0.*@stable"
     },
