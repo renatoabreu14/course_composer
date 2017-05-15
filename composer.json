@@ -16,7 +16,7 @@
     ],
     "minimum-stability": "dev",
     "autoload":{
-        "psr-4":{"App\\":"App/"}
+        "psr-4":{"App\\Renato\\SON":"App/Renato/SON"}
     },
     "config":{
         "bin-dir":"bin/"
