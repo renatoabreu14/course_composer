@@ -2,6 +2,7 @@
 
 namespace Renato\SON;
 
+
 class HelloPackage
 {
 
